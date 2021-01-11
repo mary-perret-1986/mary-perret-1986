@@ -7,7 +7,7 @@ I am a XX-yo Software Developer, currently based in Paris and working at Veepee.
 - 🌱 I'm currently learning Rust and Clojure
 - 👯 I'm looking to collaborate on F#, C#, Go, Rust
 - 🤸‍♀️ I'm looking for help with Go, Rust
-- 💬 Ask me about F#
+- 💬 You can ask me about .NET, C# or F#
 - 📫 How to reach me: [Twitter](https://twitter.com/kerry_perret) or [LinkedIn](https://www.linkedin.com/in/kerry-perret/), my DMs are open.
 - 👩 Pronouns: ♀️ she/her ♀️
 - ⚡ Fun fact: I lived in quite few places on Earth, as a result my carbon footprint is pretty huge (not proud).
