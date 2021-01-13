@@ -30,7 +30,7 @@ I am a XX-yo Software Developer, currently based in Paris and working at Veepee.
 > - travelling 🧳🗺️🧭 even if it means carbon footprint++; ✈️🚆🚴‍♀️
 > - and... not necessarily in that order.
 
-Occasionally (less than once a year), I write random stuff in [my blog](https://https://kerry-perret.github.io).
+Occasionally (less than once a year), I write a random blog post [my blog](https://https://kerry-perret.github.io).
 
 <a href="http://twitter.com/kerry_perret">
   <img src="https://img.shields.io/twitter/follow/kerry_perret?label=Twitter&logo=twitter&style=for-the-badge" />
