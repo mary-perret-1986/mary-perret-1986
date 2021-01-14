@@ -42,4 +42,4 @@ Occasionally (less than once a year), I write a random blog post [my blog](https
 [![Kerry Perret's github stats](https://github-readme-stats.vercel.app/api?username=kerry-perret&count_private=true&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/kerry-perret)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerry-perret&hide=elixir,glsl,css&layout=compact&theme=dark&langs_count=5)](https://github.com/kerry_perret/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerry-perret&hide=elixir,glsl,css&layout=compact&theme=dark&langs_count=5)](https://github.com/kerry-perret/)
