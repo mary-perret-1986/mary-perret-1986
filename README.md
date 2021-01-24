@@ -32,9 +32,11 @@ I am a XX-yo Software Developer, currently based in Paris and working at Veepee.
 
 Occasionally (less than once a year), I write a random blog post [my blog](https://kerry-perret.github.io).
 
+<!-- 
 <a href="http://twitter.com/kerry_perret">
   <img src="https://img.shields.io/twitter/follow/kerry_perret?label=Twitter&logo=twitter&style=for-the-badge" />
 </a>
+-->
 <a href="https://github.com/kerry-perret?tab=followers">
   <img src="https://img.shields.io/github/followers/kerry-perret?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
