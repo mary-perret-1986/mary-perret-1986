@@ -1,6 +1,4 @@
-
 ### Howdy y'all! 👋
-
 
 I am a Software Developer, currently based in Paris and working @ Veepee.
 
@@ -15,7 +13,7 @@ Some bits about myself...
 - 👩 Pronouns: ♀️ she/her ♀️
 - ⚡ Fun fact: I lived in quite few places on Earth, as a result my carbon footprint is pretty huge (and I'm not proud about it).
 
-and I like... (shamelessy extracted from my aforementioned blog)
+and I like...
 
 - (⚠️spoiler-alert) coding 👩‍💻
 - the arts 🎶✒️🍿💃🗿🎨
