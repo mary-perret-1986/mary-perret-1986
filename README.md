@@ -1,7 +1,10 @@
 
 ### Howdy y'all! 👋
 
-I am a XX-yo Software Developer, currently based in Paris and working at Veepee.
+
+I am a Software Developer, currently based in Paris and working @ Veepee.
+
+Some bits about myself...
 
 - 🔭 I'm currently working on F# stuff at work and in my spare time.
 - 🌱 I'm currently learning Rust and Clojure
@@ -10,33 +13,31 @@ I am a XX-yo Software Developer, currently based in Paris and working at Veepee.
 - 💬 You can ask me about .NET, C# or F#
 - 📫 How to reach me: [Twitter](https://twitter.com/kerry_perret) or [LinkedIn](https://www.linkedin.com/in/kerry-perret/), my DMs are open.
 - 👩 Pronouns: ♀️ she/her ♀️
-- ⚡ Fun fact: I lived in quite few places on Earth, as a result my carbon footprint is pretty huge (not proud).
+- ⚡ Fun fact: I lived in quite few places on Earth, as a result my carbon footprint is pretty huge (and I'm not proud about it).
 
-### I like... (shamelessy extracted from my aforementioned blog)
+and I like... (shamelessy extracted from my aforementioned blog)
 
-> 
-> - (⚠️spoiler-alert) coding 👩‍💻
-> - the arts 🎶✒️🍿💃🗿🎨
-> - hiking 🚶‍♀️🥾
-> - supporting LGBTQ2+ indivdiuals 🏳️‍🌈⚢⚣⚤⚥⚧️⚦
-> - debating using the principle of charity ⚖️
-> - learning stuff 📚
-> - self-deprecating humor 🙈
-> - terrible puns 😹
-> - Guinness 🍺🍀
-> - the damp weather ⛈️
-> - almost all sorts of food,🤤 preferrably Asian cuisine 🥢🍜🦐🍛🥔
-> - taking sh*te 🖼️ with my 📱📷
-> - travelling 🧳🗺️🧭 even if it means carbon footprint++; ✈️🚆🚴‍♀️
-> - and... not necessarily in that order.
+- (⚠️spoiler-alert) coding 👩‍💻
+- the arts 🎶✒️🍿💃🗿🎨
+- hiking 🚶‍♀️🥾
+- supporting LGBTQ2+ indivdiuals 🏳️‍🌈⚢⚣⚤⚥⚧️⚦
+- debating using the principle of charity ⚖️
+- learning stuff 📚
+- self-deprecating humor 🙈
+- terRrRrRrible puns 😹
+- Guinness 🍺🍀
+- the damp weather ⛈️
+- almost all sorts of food,🤤 preferrably Asian cuisine 🥢🍜🦐🍛🥔
+- taking sh*te 🖼️ with my 📱📷
+- travelling 🧳🗺️🧭 even if it means carbon footprint++; ✈️🚆🚴‍♀️
+- and... not necessarily in that order.
 
-Occasionally (less than once a year), I write a random blog post [my blog](https://kerry-perret.github.io).
+Oh and I occasionally write [some bad random blog posts](https://kerry-perret.github.io) rumbling about all kinds of things.
 
-<!-- 
 <a href="http://twitter.com/kerry_perret">
   <img src="https://img.shields.io/twitter/follow/kerry_perret?label=Twitter&logo=twitter&style=for-the-badge" />
 </a>
--->
+
 <a href="https://github.com/kerry-perret?tab=followers">
   <img src="https://img.shields.io/github/followers/kerry-perret?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
