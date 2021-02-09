@@ -42,5 +42,4 @@ Oh and I occasionally write [some bad random blog posts](https://kerry-perret.gi
 
 [![Kerry Perret's github stats](https://github-readme-stats.vercel.app/api?username=kerry-perret&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true)](https://github.com/kerry-perret)
 </br>
-</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerry-perret&hide=matlab,jupyter%20notebook,css&theme=midnight-purple&langs_count=5)](https://github.com/kerry-perret/)
