@@ -40,7 +40,7 @@ Oh and I occasionally write [some bad random blog posts](https://kerry-perret.gi
   <img src="https://img.shields.io/github/followers/kerry-perret?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
 
-[![Kerry Perret's github stats](https://github-readme-stats.vercel.app/api?username=kerry-perret&count_private=true&theme=jolly&show_icons=true&include_all_commits=true)](https://github.com/kerry-perret)
+[![Kerry Perret's github stats](https://github-readme-stats.vercel.app/api?username=kerry-perret&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&include_all_commits=true)](https://github.com/kerry-perret)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerry-perret&hide=matlab,jupyter%20notebook,css&theme=jolly&langs_count=5)](https://github.com/kerry-perret/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerry-perret&hide=matlab,jupyter%20notebook,css&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=5)](https://github.com/kerry-perret/)
