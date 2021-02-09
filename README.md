@@ -22,8 +22,8 @@ and I like...
 - debating using the principle of charity ⚖️
 - learning stuff 📚
 - self-deprecating humor 🙈
-- terRrRrRrible puns 😹
-- Guinness 🍺🍀
+- terRrRrRrible puns (i.e. craic) 😹
+- Guinness (i.e. black stuff) 🍺🍀
 - the damp weather ⛈️
 - almost all sorts of food,🤤 preferrably Asian cuisine 🥢🍜🦐🍛🥔
 - taking sh*te 🖼️ with my 📱📷
