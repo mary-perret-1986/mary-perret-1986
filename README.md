@@ -16,12 +16,13 @@ Some bits about myself...
 and I like...
 
 - (⚠️spoiler-alert) coding 👩‍💻
+- the annoyingly glowing purple colour 💜
 - the arts 🎶✒️🍿💃🗿🎨
 - hiking 🚶‍♀️🥾
 - supporting LGBTQ2+ indivdiuals 🏳️‍🌈⚢⚣⚤⚥⚧️⚦
 - debating using the principle of charity ⚖️
 - learning stuff 📚
-- self-deprecating humor 🙈
+- self-deprecating humour 🙈
 - terRrRrRrible puns (i.e. craic) 😹
 - Guinness (i.e. black stuff) 🍺🍀
 - the damp weather ⛈️
@@ -30,7 +31,7 @@ and I like...
 - travelling 🧳🗺️🧭 even if it means carbon footprint++; ✈️🚆🚴‍♀️
 - and... not necessarily in that order.
 
-Oh and I occasionally write [some bad random blog posts](https://kerry-perret.github.io) rumbling about all kinds of things.
+Oh and I occasionally write [some bad random blog posts here on this blog]((https://kerry-perret.github.io) rumbling about all kinds of things.
 
 <a href="http://twitter.com/kerry_perret">
   <img src="https://img.shields.io/twitter/follow/kerry_perret?label=Twitter&logo=twitter&style=for-the-badge" />
