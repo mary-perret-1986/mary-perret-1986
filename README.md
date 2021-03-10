@@ -33,14 +33,14 @@ and I like...
 
 Oh and I occasionally write [some bad random blog posts here on this blog]((https://kerry-perret.github.io) rumbling about all kinds of things.
 
-<a href="http://twitter.com/kerry_perret">
-  <img src="https://img.shields.io/twitter/follow/kerry_perret?label=Twitter&logo=twitter&style=for-the-badge" />
+<a href="http://twitter.com/maryperret1986">
+  <img src="https://img.shields.io/twitter/follow/maryperret1986?label=Twitter&logo=twitter&style=for-the-badge" />
 </a>
 
-<a href="https://github.com/kerry-perret?tab=followers">
-  <img src="https://img.shields.io/github/followers/kerry-perret?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+<a href="https://github.com/mary-perret-1986?tab=followers">
+  <img src="https://img.shields.io/github/followers/mary-perret-1986?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
 
-[![Kerry Perret's github stats](https://github-readme-stats.vercel.app/api?username=kerry-perret&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true)](https://github.com/kerry-perret)
+[![Kerry Perret's github stats](https://github-readme-stats.vercel.app/api?username=mary-perret-1986&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true)](https://github.com/mary-perret-1986)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerry-perret&hide=matlab,jupyter%20notebook,css,scss&theme=midnight-purple&langs_count=5)](https://github.com/kerry-perret/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mary-perret-1986&hide=matlab,jupyter%20notebook,css,scss&theme=midnight-purple&langs_count=5)](https://github.com/mary-perret-1986/)
