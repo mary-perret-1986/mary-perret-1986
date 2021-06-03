@@ -31,7 +31,7 @@ and I like...
 - travelling 🧳🗺️🧭 even if it means carbon footprint++; ✈️🚆🚴‍♀️
 - and... not necessarily in that order.
 
-Oh and I occasionally write [some bad random blog posts here on this blog](https://mary-perret-1986.github.io) rumbling about all kinds of things.
+Oh and I occasionally write [some bad random blog posts here on this blog](https://natalie-perret-1986.github.io) rumbling about all kinds of things.
 
 <a href="http://twitter.com/natalie_perret">
   <img src="https://img.shields.io/twitter/follow/natalie_perret?label=Twitter&logo=twitter&style=for-the-badge" />
