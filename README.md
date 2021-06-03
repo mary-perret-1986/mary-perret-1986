@@ -41,6 +41,6 @@ Oh and I occasionally write [some bad random blog posts here on this blog](https
   <img src="https://img.shields.io/github/followers/natalie-perret-1986?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
 
-[![Kerry Perret's github stats](https://github-readme-stats.vercel.app/api?username=natalie-perret-1986&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true)](https://github.com/natalie-perret-1986)
+[![Kerry Perret's github stats](https://github-readme-stats.vercel.app/api?username=natalie-perret-1986&count_private=true&theme=omni &show_icons=true&include_all_commits=true)](https://github.com/natalie-perret-1986)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalie-perret-1986&hide=matlab,jupyter%20notebook,css,scss&theme=midnight-purple&langs_count=5)](https://github.com/natalie-perret-1986/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalie-perret-1986&hide=matlab,jupyter%20notebook,css,scss&theme=omni&langs_count=5)](https://github.com/natalie-perret-1986/)
