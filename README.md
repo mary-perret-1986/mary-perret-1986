@@ -9,7 +9,7 @@ Some bits about myself...
 - 👯 I'm looking to collaborate on F#, C#, Go, Rust
 - 🤸‍♀️ I'm looking for help with Go, Rust
 - 💬 You can ask me about .NET, C# or F#
-- 📫 How to reach me: [Twitter](https://twitter.com/natalie_perret) or [LinkedIn](https://www.linkedin.com/in/natalie-perret-1986/), my DMs are open.
+- 📫 How to reach me: [Twitter](https://twitter.com/natalie_perret) or [LinkedIn](https://www.linkedin.com/in/natalieperret1986/), my DMs are open.
 - 👩 Pronouns: ♀️ she/her ♀️
 - ⚡ Fun fact: I lived in quite a few places on Earth, as a result my carbon footprint is pretty huge (and I'm not proud about it).
 
