@@ -1,6 +1,6 @@
 ### Howdy y'all! 👋
 
-🙋‍♀️I am Natalie, I am a Software Developer💻, currently based in Paris and working @ Veepee.
+🙋‍♀️I am Natalie🐈, I am a Software Developer, currently based in Paris and working @ Veepee.
 
 Some bits about myself...
 
