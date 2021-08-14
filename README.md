@@ -1,6 +1,6 @@
 ### Howdy y'all! 👋
 
-I am a Software Developer, currently based in Paris and working @ Veepee.
+🙋‍♀️I am Natalie, I am a Software Developer💻, currently based in Paris and working @ Veepee.
 
 Some bits about myself...
 
@@ -15,16 +15,13 @@ Some bits about myself...
 
 and I like...
 
-- (⚠️spoiler-alert) coding 👩‍💻
+- (⚠️spoiler-alert) coding 👩‍💻 stuff that, hopefully, can bring some value to others
 - the annoyingly glowing purple colour 💜
 - the arts 🎶✒️🍿💃🗿🎨
 - hiking 🚶‍♀️🥾
 - supporting LGBTQ2+ indivdiuals 🏳️‍🌈⚢⚣⚤⚥⚧️⚦
 - debating using the principle of charity ⚖️
 - learning stuff 📚
-- self-deprecating humour 🙈
-- terRrRrRrible puns (i.e. craic) 😹
-- Guinness (i.e. black stuff) 🍺🍀
 - the damp weather ⛈️
 - almost all sorts of food,🤤 preferrably Asian cuisine 🥢🍜🦐🍛🥔
 - taking sh*te 🖼️ with my 📱📷
