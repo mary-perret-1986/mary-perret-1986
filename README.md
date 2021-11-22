@@ -9,7 +9,7 @@ Some bits about myself...
 - 👯 I'm looking to collaborate on F#, C#, Go, Rust
 - 🤸‍♀️ I'm looking for help with Go, Rust
 - 💬 You can ask me about .NET, C# or F#
-- 📫 How to reach me: [Twitter](https://twitter.com/natalie_perret) or [LinkedIn](https://www.linkedin.com/in/natalieperret1986/), my DMs are open.
+- 📫 How to reach me: [Twitter](https://twitter.com/natalie_perret) or [LinkedIn](https://www.linkedin.com/in/natalie-perret), my DMs are open.
 - 👩 Pronouns: ♀️ she/her ♀️
 - ⚡ Fun fact: I lived in quite a few places on Earth, as a result my carbon footprint is pretty huge (and I'm not proud about it).
 
@@ -34,10 +34,10 @@ Oh and I occasionally write [some bad random blog posts here on this blog](https
   <img src="https://img.shields.io/twitter/follow/natalie_perret?label=Twitter&logo=twitter&style=for-the-badge" />
 </a>
 
-<a href="https://github.com/natalie-perret-1986?tab=followers">
-  <img src="https://img.shields.io/github/followers/natalie-perret-1986?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+<a href="https://github.com/natalie-o-perret?tab=followers">
+  <img src="https://img.shields.io/github/followers/natalie-o-perret?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
 
-[![Kerry Perret's github stats](https://github-readme-stats.vercel.app/api?username=natalie-perret-1986&count_private=true&theme=omni&show_icons=true&include_all_commits=true)](https://github.com/natalie-perret-1986)
+[![Kerry Perret's github stats](https://github-readme-stats.vercel.app/api?username=natalie-o-perret&count_private=true&theme=omni&show_icons=true&include_all_commits=true)](https://github.com/natalie-o-perret)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalie-perret-1986&hide=matlab,jupyter%20notebook,css,scss&theme=omni&langs_count=5)](https://github.com/natalie-perret-1986/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalie-o-perret&hide=matlab,jupyter%20notebook,css,scss&theme=omni&langs_count=5)](https://github.com/natalie-o-perret)
