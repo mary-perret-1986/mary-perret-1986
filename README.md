@@ -1,13 +1,13 @@
 ### Howdy y'all! 👋
 
-🙋‍♀️I am Natalie🐈, I am a Software Developer 👩‍💻, currently based in Paris and working @ Veepee.
+🙋‍♀️I am Natalie🐈, I am a Software Developer 👩‍💻, currently based in Paris and working @ [Veepee](https://www.veepee.com).
 
 Some bits about myself...
 
 - 🔭 I'm currently working on F# stuff at work and in my spare time.
-- 🌱 I'm currently learning Rust and Clojure
-- 👯 I'm looking to collaborate on F#, C#, Go, Rust
-- 🤸‍♀️ I'm looking for help with Go, Rust
+- 🌱 I'm currently learning Rust
+- 👯 I'm looking to collaborate on Rust, Go, F#, C#
+- 🤸‍♀️ I'm looking for help with Rust, Go
 - 💬 You can ask me about .NET, C# or F#
 - 📫 How to reach me: [Twitter](https://twitter.com/natalie_perret) or [LinkedIn](https://www.linkedin.com/in/natalie-perret), my DMs are open.
 - 👩 Pronouns: ♀️ she/her/hers ♀️
@@ -38,6 +38,6 @@ Oh and I occasionally write [some bad random blog posts here on this blog](https
   <img src="https://img.shields.io/github/followers/natalie-o-perret?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 </a>
 
-[![Kerry Perret's github stats](https://github-readme-stats.vercel.app/api?username=natalie-o-perret&count_private=true&theme=omni&show_icons=true&include_all_commits=true)](https://github.com/natalie-o-perret)
+[![Natalie Perret's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalie-o-perret&count_private=true&theme=omni&show_icons=true&include_all_commits=true)](https://github.com/natalie-o-perret)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalie-o-perret&hide=matlab,jupyter%20notebook,css,scss&theme=omni&langs_count=5)](https://github.com/natalie-o-perret)
