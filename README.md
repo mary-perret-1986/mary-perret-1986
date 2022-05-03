@@ -6,8 +6,8 @@ Some bits about myself...
 
 - 🔭 I'm currently working on F# stuff at work and in my spare time.
 - 🌱 I'm currently learning Rust
-- 👯 I'm looking to collaborate on Rust, Go, F#, C#
-- 🤸‍♀️ I'm looking for help with Rust, Go
+- 👯 I'm looking to collaborate on Rust, F#, C#
+- 🤸‍♀️ I'm looking for help with Rust
 - 💬 You can ask me about .NET, C# or F#
 - 📫 How to reach me: [Twitter](https://twitter.com/natalie_perret) or [LinkedIn](https://www.linkedin.com/in/natalie-perret), my DMs are open.
 - 👩 Pronouns: ♀️ she/her/hers ♀️
