@@ -6,7 +6,7 @@ I am Natalie Perret, a Software Developer, currently based in Paris and working 
 
 I like to talk and write about mental health, work, and software development.
 
-## Some bits about myself
+## Some additional bits about myself
 
 - I am working with F#, C# (marginally), TypeScript and Rust (with parsimony) stuff at work.
 - I am currently learning Rust (cause I am clearly not an expert), Go (re-learning it cause I wanna help with it at work), TypeScript (not doing great) and Zig (my own quirks).
