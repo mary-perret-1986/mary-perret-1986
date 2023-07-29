@@ -1,5 +1,7 @@
 # About🆔 
 
+## `whoami`
+
 I am Natalie Perret, a Software Developer, currently based in Paris and working @ [Veepee](https://www.veepee.com). 
 
 I like to talk and write about mental health, work, and software development.
