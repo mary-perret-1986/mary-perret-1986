@@ -1,43 +1,15 @@
-### Howdy y'all! 👋
+# About🆔 
 
-🙋‍♀️I am Natalie🐈, I am a Software Developer 👩‍💻, currently based in Paris and working @ [Veepee](https://www.veepee.com). I talk and write about work, legal stuff, ethics, mental health, and software development.
+I am Natalie Perret, a Software Developer, currently based in Paris and working @ [Veepee](https://www.veepee.com). 
 
-Some bits about myself...
+I like to talk and write about mental health, work, and software development.
 
-- 🔭 I'm currently working on F# stuff at work and in my spare time.
-- 🌱 I'm currently learning Rust
-- 👯 I'm looking to collaborate on Rust, F#, C#
-- 🤸‍♀️ I'm looking for help with Rust
-- 💬 You can ask me about .NET, C# or F#
-- 📫 How to reach me: [Twitter](https://twitter.com/natalie_perret) or [LinkedIn](https://www.linkedin.com/in/natalie-perret), my DMs are open.
-- 👩 Pronouns: ♀️ she/her/hers ♀️
-- ⚡ Fun fact: I lived in quite a few places on Earth, as a result my carbon footprint is pretty huge (and I'm not proud about it).
+## Some bits about myself
 
-and I like...
-
-- (⚠️spoiler-alert) coding 💻 stuff that, hopefully, can bring some value to others
-- the annoyingly glowing purple colour 💜
-- the arts 🎶✒️🍿💃🗿🎨
-- hiking 🚶‍♀️🥾
-- supporting LGBTQ2+ indivdiuals 🏳️‍🌈⚢⚣⚤⚥⚧️⚦
-- debating using the principle of charity ⚖️
-- learning stuff 📚
-- the damp weather ⛈️
-- almost all sorts of food,🤤 preferrably Asian cuisine 🥢🍜🦐🍛🥔
-- taking sh*te 🖼️ with my 📱📷
-- travelling 🧳🗺️🧭 even if it means carbon footprint++; ✈️🚆🚴‍♀️
-- and... not necessarily in that order.
-
-Oh and I occasionally write [some bad random blog posts here on this blog](https://natalie-o-perret.github.io) rumbling about all kinds of things.
-
-<a href="http://twitter.com/natalie_perret">
-  <img src="https://img.shields.io/twitter/follow/natalie_perret?label=Twitter&logo=twitter&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/natalie-o-perret?tab=followers">
-  <img src="https://img.shields.io/github/followers/natalie-o-perret?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-</a>
-
-[![Natalie Perret's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalie-o-perret&count_private=true&theme=omni&show_icons=true&include_all_commits=true)](https://github.com/natalie-o-perret)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalie-o-perret&hide=matlab,jupyter%20notebook,css,scss&theme=omni&langs_count=5)](https://github.com/natalie-o-perret)
+- I am working with F#, C# (marginally), TypeScript and Rust (with parsimony) stuff at work.
+- I am currently learning Rust (cause I am clearly not an expert), Go (re-learning it cause I wanna help with it at work), TypeScript (not doing great) and Zig (my own quirks).
+- You can probably ask my help about .NET, C# or F#.
+- You can reach out to me on:
+  - [Mastodon](https://mastodon.social/@natalie_perret)
+  - [LinkedIn](https://www.linkedin.com/in/natalie-perret)
+- Pronouns: she/her/hers.
