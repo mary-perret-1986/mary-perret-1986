@@ -14,4 +14,3 @@ I am Natalie Perret, a Software Developer, currently based in Paris and working 
   - [GitHub](https://github.com/natalie-o-perret)
   - [Mastodon](https://mastodon.social/@natalie_perret)
   - [LinkedIn](https://www.linkedin.com/in/natalie-perret)
-- Pronouns: she/her/hers.
